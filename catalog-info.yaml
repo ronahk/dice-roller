@@ -1,5 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+# TODO: todo1
 metadata:
   name: dice-roller
   description: It rolls dice
